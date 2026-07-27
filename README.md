@@ -31,7 +31,7 @@ Starting from raw transactional data, the data was cleaned, transformed, and mod
 
 ---
 
-## Tools Used
+## Tools 
 
 - Microsoft Excel
 - Power Query
@@ -83,31 +83,6 @@ The dashboard helps answer questions such as:
 
 ---
 
-## Project Workflow
-
-Raw Data
-
-↓
-
-Power Query (Cleaning & Transformation)
-
-↓
-
-Data Model
-
-↓
-
-Pivot Tables
-
-↓
-
-Pivot Charts
-
-↓
-
-Interactive Dashboard
-
----
 
 
 ## Learning Outcomes
